@@ -7,11 +7,12 @@ java
 jar
 java 17
 
-Spring web
-Lombok//not used
+--Tools--
+Spring web,
+Lombok//not used,
 postgrSQL
 
-app
+--app--
 postman
 postgrSQL
 
