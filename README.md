@@ -16,5 +16,4 @@ postgrSQL
 postman
 postgrSQL
 
-
 If you are using the code, you must fill in the password section from the application properties file to access the database.
