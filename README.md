@@ -19,8 +19,8 @@ postgrSQL
 If you are using the code, you must fill in the password section from the application properties file to access the database.
 
  for shell command
-1)psql,
-2)\l,
+1)psql
+2)\l
 3)CREATE DATABASE student;
 4)\du
 5)GRANT ALL PRIVILEGES ON DATABASE "student TO postgres;
